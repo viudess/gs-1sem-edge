@@ -1,6 +1,6 @@
 # 🌊 Sistema de Detecção e Alerta de Enchentes com Arduino da HydroSafe
 
-![Banner](https://i.imgur.com/B9u6s9O.png) <!-- Substitua por uma imagem do seu projeto depois -->
+![Banner](./imgs/logo-hs.png)
 
 ## 📌 Descrição do Problema
 
@@ -55,7 +55,7 @@ Este projeto propõe um **sistema simples, acessível e eficaz** usando **Arduin
 
 [🔗 Clique aqui para acessar o projeto no Tinkercad](https://www.tinkercad.com/things/4MMMy5t0pNT-gs1-hydrosafe) 
 
-![Protótipo do Tinkercad](https://i.imgur.com/Dw2DuLb.png) <!-- Imagem do circuito no Tinkercad -->
+![Protótipo do Tinkercad](./imgs/arduino.png)
 
 ---
 
@@ -64,7 +64,6 @@ Este projeto propõe um **sistema simples, acessível e eficaz** usando **Arduin
 Assista à demonstração completa do funcionamento do sistema:
 
 [🎬 Assista no YouTube](https://youtu.be/SEU-LINK-AQUI)  
-> *(substitua pelo link do vídeo)*
 
 ---
 
