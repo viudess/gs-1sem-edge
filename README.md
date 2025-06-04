@@ -63,7 +63,7 @@ Este projeto propõe um **sistema simples, acessível e eficaz** usando **Arduin
 
 Assista à demonstração completa do funcionamento do sistema:
 
-[🎬 Assista no YouTube](https://youtu.be/SEU-LINK-AQUI)  
+[🎬 Assista no YouTube](https://youtu.be/a_hoRntWEy0)  
 
 ---
 
